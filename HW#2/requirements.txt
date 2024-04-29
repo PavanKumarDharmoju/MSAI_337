@@ -1,0 +1,5 @@
+torch>=1.8.1
+torchvision>=0.9.1  # Often used with PyTorch for vision-related transformations, optional here unless specifically used
+torchaudio>=0.8.1  
+transformers>=4.5.0
+numpy>=1.19.2
